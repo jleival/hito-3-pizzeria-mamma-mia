@@ -11,8 +11,8 @@ function App() {
       <Navbar />
       <div className='flex-grow-1'>
         {/* Tips del Hito 2: Comenta o descomenta según la vista que quieras mostrar */}
-        <Home />
-        {/* <Cart />  Hito 3 */}
+        {/* <Home /> */}
+        <Cart />  {/* Hito 3 */}
         {/* <Register /> */}    
         {/* <Login /> */}
       </div>
