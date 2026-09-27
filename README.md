@@ -3,6 +3,11 @@
 Aplicación web desarrollada en **React** y **React-Bootstrap**, correspondiente al **Hito 3** del curso de desarrollo frontend. Este proyecto se centra en la renderización dinámica de componentes a partir de arreglos de datos, el uso de props, y la implementación de un carrito de compras interactivo mediante hooks de estado (`useState`).
 
 ---
+## 🔗 Enlace al Proyecto
+Puedes ver el sitio en funcionamiento a través de GitHub Pages:
+👉 [https://jleival.github.io/hito-3-pizzeria-mamma-mia/](https://jleival.github.io/hito-3-pizzeria-mamma-mia/)
+
+---
 
 ## 🚀 Características del Hito 3
 
