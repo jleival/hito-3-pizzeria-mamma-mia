@@ -8,6 +8,23 @@ Puedes ver el sitio en funcionamiento a través de GitHub Pages:
 👉 [https://jleival.github.io/hito-3-pizzeria-mamma-mia/](https://jleival.github.io/hito-3-pizzeria-mamma-mia/)
 
 ---
+## 📸 Vistas Previas del Proyecto
+
+### 🖥️ Vista de Escritorio (Catálogo General)
+Visualización general del diseño adaptado para pantallas de escritorio, mostrando las pizzas disponibles, sus ingredientes, precios y opciones de interacción.
+
+<p align="center">
+  <img src="src/assets/img/escritorio-hito-3.png" alt="Vista Escritorio Pizzería Mamma Mia" width="85%" />
+</p>
+
+### 🛒 Vista del Carrito de Compras
+Interfaz dinámica del carrito donde se gestiona el incremento y decremento de cantidades, cálculo automático del valor total y visualización de los productos seleccionados.
+
+<p align="center">
+  <img src="src/assets/img/carrito-compras.png" alt="Vista Carrito de Compras" width="85%" />
+</p>
+
+---
 
 ## 🚀 Características del Hito 3
 
